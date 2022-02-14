@@ -4,6 +4,6 @@
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?logo=Bilibili&labelColor=FF69b4&color=FF69b4&label=Bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D680791&style=flat-square)](https://space.bilibili.com/680791)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taokyla)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taokyla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taokyla&layout=compact&langs_count=6 "Top languages")]()
